@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @khush9651
-- 👀 I’m interested in Software Engineering
+- 👀 I’m interested in Software Engineering and web development.
 - 🌱 I’m currently learning DSA
